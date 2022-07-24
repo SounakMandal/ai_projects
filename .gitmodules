@@ -1,0 +1,12 @@
+[submodule "twitter-sentiment-analysis"]
+	path = twitter-sentiment-analysis
+	url = https://github.com/SounakMandal/twitter-sentiment-analysis.git
+[submodule "stroke-prediction"]
+	path = stroke-prediction
+	url = https://github.com/SounakMandal/stroke-prediction.git
+[submodule "path_planning"]
+	path = path_planning
+	url = https://github.com/SounakMandal/path_planning.git
+[submodule "shakespeare-text-generation"]
+	path = shakespeare-text-generation
+	url = https://github.com/SounakMandal/shakespeare-text-generation.git
